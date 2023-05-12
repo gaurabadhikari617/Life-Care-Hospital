@@ -29,7 +29,7 @@ echo "<script>window.location.href ='index.php'</script>";
 
     <body>
 
-    <!-- ################# This header is starting Here####### ################--->
+    <!-- ################# Header is star Here####### ################--->
     
       <header id="menu-jk">
     
